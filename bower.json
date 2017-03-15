@@ -1,0 +1,26 @@
+{
+  "name": "ls-calendar",
+  "homepage": "https://github.com/venugopal-annamaneni/ls-ui-calendar",
+  "authors": [
+    "venugopal_annamaneni <venugopal.annamaneni@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src",
+    "gulpfile.js"
+  ],
+  "dependencies": {
+    "jquery": ">=2.0.0",
+    "moment": ">=2.9.0"
+  },
+  "devDependencies": {
+    "fullcalendar": "3.0.0"
+  }
+}
